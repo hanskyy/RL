@@ -2,6 +2,7 @@
 This part of code is the DQN brain, which is a brain of the agent.
 All decisions are made in here.
 Using Tensorflow to build the neural network.
+PyTorch version is not availible this time
 
 
 Using:
